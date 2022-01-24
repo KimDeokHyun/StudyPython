@@ -49,9 +49,10 @@ import matplotlib.pyplot as plt
 # plt.imshow(x3, cmap='gray')
 
 #사진 불러오기
-
+import numpy as np
+import matplotlib.pyplot as plt
 from PIL import Image  # pil폴더에서 image 가져오기
-img = Image.open('./pic/img1.png')
+img = Image.open('./abcd/img2.jpg')
 img
 np.array(img)
 
@@ -60,6 +61,8 @@ np.array(img)
 # file_list = os.listdir('./pic/')
 # file_list
 
-from PIL import Image
-fileName=folderName '/' file_list[0]
-Image.open(fileName)
+# from PIL import Image
+# fileName=folderName '/' file_list[0]
+# img = Image.open(fileName)
+# img = img.resize((100.200))
+
