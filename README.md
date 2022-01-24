@@ -1,6 +1,7 @@
 # StudyPython
 빅데이터 반 파이썬 학습 리포지토리
 
+![python](https://jacoblee.io/content/images/2021/08/4e105f96750899.5eb54f337fb8e-17.png)
 ### 1일차
  - 프로그래밍 이해
  - 파이썬 설치, Visual Studil Code 설치
@@ -44,6 +45,7 @@
    - 클래스 사용
    - 매직메서드(__init__, __str__ etc...)
    
+
 ### 1월24일
   - golb, os.listdir로 폴더 내의 자료를 리스트화
   - numpy모듈을 이용한 배열 간 연산
@@ -51,3 +53,4 @@
   - PIL모듈
    - 파일,폴더 불러오기 및 복사 삭제
    - 리사이즈, 이미지 관련 연산  
+
